@@ -11,3 +11,10 @@ This website represents a startup moving company that provides:
 📦 Professional packing services
 🚛 Countrywide transportation
 ❤️ Personalized moving experience
+
+The website focuses on:
+
+Clean design
+Responsive layout
+Easy navigation
+Attractive service presentation
