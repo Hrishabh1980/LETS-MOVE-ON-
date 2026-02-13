@@ -18,3 +18,9 @@ Clean design
 Responsive layout
 Easy navigation
 Attractive service presentation
+
+🛠️ Technologies Used
+HTML5 – Website structure
+CSS3 – Custom styling
+Bootstrap 5 – Responsive layout & components
+Bootstrap Icons – Icons integration
