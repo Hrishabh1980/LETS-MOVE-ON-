@@ -36,3 +36,11 @@ LETS-MOVE-ON/
 ├── chat-square-heart.svg
 └── README.md
 
+💡 Key Learning Outcomes
+
+Implementing Bootstrap Navbar & Carousel
+Using responsive grid system
+Working with CDN links
+Styling with custom CSS
+Creating a real-world service-based website
+
